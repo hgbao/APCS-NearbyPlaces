@@ -1,0 +1,43 @@
+<resources>
+    <!-- Key -->
+    <string name="ANDROID_KEY">AIzaSyAqLHJoioXhL8UrdZcvGxgvPxDN9W1HiLo</string>
+    <string name="SERVER_KEY">AIzaSyAQ9Z3AoMTBHj7ZbRQHcgzrhP9cg8Jm-gM</string>
+    <string name="BROWSER_KEY">AIzaSyCaWbeHld4upvjtDvHOdeE2x9dbHDp2K8k</string>
+
+    <!-- Title -->
+    <string name="app_name">VNGFresher</string>
+    <string name="title_activity_main">Bản đồ</string>
+    <string name="title_activity_detail">Thông tin</string>
+
+    <!-- Menu action -->
+    <string name="action_group_setting">Công cụ</string>
+    <string name="action_settings">Cài đặt</string>
+    <string name="action_exit">Thoát</string>
+
+    <!-- Dialogs -->
+    <string name="dialog_network_title">Không kết nối mạng</string>
+    <string name="dialog_network_message">Ứng dụng không kết nối mạng, vui lòng thử lại</string>
+    <string name="dialog_network_positive">Thử lại</string>
+    <string name="dialog_network_negative">Thoát</string>
+
+    <string name="dialog_exit_title">Xác nhận thoát</string>
+    <string name="dialog_exit_message">Bạn có chắc chắn muốn thoát</string>
+    <string name="dialog_exit_positive">Có</string>
+    <string name="dialog_exit_negative">Không</string>
+
+    <string name="dialog_search_title">Tìm kiếm</string>
+    <string name="dialog_search_address">Địa chỉ hiện tại:</string>
+    <string name="dialog_search_radius">Tìm trong bán kính:</string>
+    <string name="dialog_search_positive">Tìm</string>
+    <string name="dialog_search_negative">Hủy</string>
+
+    <!-- Progress -->
+    <string name="progress_loading">Đang tải dữ liệu</string>
+
+    <!-- Error -->
+    <string name="data_error">(Không rõ)</string>
+    <string name="loading_error">Không thể tải dữ liệu hoặc đã hết request</string>
+    <string name="gps_error">Không có dữ liệu gps</string>
+    <string name="network_error">Không có dữ liệu mạng</string>
+
+</resources>

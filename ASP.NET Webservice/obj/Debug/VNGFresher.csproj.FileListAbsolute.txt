@@ -1,0 +1,6 @@
+C:\Users\GiaBao\SkyDrive\Visual Studio 2013\Projects\VNGFresher\VNGFresher\bin\VNGFresher.dll.config
+C:\Users\GiaBao\SkyDrive\Visual Studio 2013\Projects\VNGFresher\VNGFresher\bin\VNGFresher.dll
+C:\Users\GiaBao\SkyDrive\Visual Studio 2013\Projects\VNGFresher\VNGFresher\bin\VNGFresher.pdb
+C:\Users\GiaBao\SkyDrive\Visual Studio 2013\Projects\VNGFresher\VNGFresher\obj\Debug\VNGFresher.csprojResolveAssemblyReference.cache
+C:\Users\GiaBao\SkyDrive\Visual Studio 2013\Projects\VNGFresher\VNGFresher\obj\Debug\VNGFresher.dll
+C:\Users\GiaBao\SkyDrive\Visual Studio 2013\Projects\VNGFresher\VNGFresher\obj\Debug\VNGFresher.pdb

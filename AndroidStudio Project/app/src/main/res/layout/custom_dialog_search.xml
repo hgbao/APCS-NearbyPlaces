@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="@dimen/margin_short">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/dialog_search_address"
+        android:textColor="@color/colorAccent"
+        android:textSize="@dimen/text_detail"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/txtSearchAddress"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/margin_short"
+        android:maxLines="2"
+        android:text="@string/data_error"
+        android:textSize="@dimen/text_detail" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/dialog_search_radius"
+        android:textColor="@color/colorAccent"
+        android:textSize="@dimen/text_detail"
+        android:textStyle="bold" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <EditText
+            android:id="@+id/txtSearchRadius"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:inputType="number"
+            android:text="1000" />
+
+        <TextView
+            style="@style/TextDetail"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="m" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/btnSearchYes"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="@string/dialog_search_positive" />
+
+        <Button
+            android:id="@+id/btnSearchNo"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="@string/dialog_search_negative" />
+    </LinearLayout>
+
+</LinearLayout>
